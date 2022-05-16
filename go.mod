@@ -1,3 +1,3 @@
-module github.com/alfrunes/filelock
+module github.com/mendersoftware/filelock
 
 go 1.18
